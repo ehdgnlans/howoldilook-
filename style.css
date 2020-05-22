@@ -175,3 +175,8 @@ body {
   border-radius: 10px;
   border: solid 4px #35465d;
   background-color: #ffffff;
+}  
+.add-banner{
+        width: 320px; 
+        margin: 0 auto;
+    }
